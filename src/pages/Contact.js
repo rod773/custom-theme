@@ -3,7 +3,9 @@ import React from "react";
 const Contact = () => {
   return (
     <>
-      <h1>Contact</h1>
+      <div style={{ height: "100%", width: "100%" }}>
+        <h1>Contact</h1>
+      </div>
     </>
   );
 };

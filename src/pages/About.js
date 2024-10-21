@@ -3,7 +3,9 @@ import React from "react";
 const About = () => {
   return (
     <>
-      <h1>About</h1>
+      <div style={{ height: "100%", width: "100%" }}>
+        <h1>About</h1>
+      </div>
     </>
   );
 };
